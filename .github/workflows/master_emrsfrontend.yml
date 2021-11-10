@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'emrsFrontEnd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC3A812DD57A4DD6A5860B6BE784F28B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F25BC77C024649E88E2DADB838CA9E16 }}
           package: .
